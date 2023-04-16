@@ -1,6 +1,6 @@
-# React App Deploy On Netlify
+# React App Vmart Deployed On Vercerl
 
-https://effervescent-bavarois-d6aa41.netlify.app/
+vmart.vercel.app
 
 A
 Report on
